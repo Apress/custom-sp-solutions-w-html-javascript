@@ -1,0 +1,13 @@
+#WelcomeMessage {
+    margin-bottom: 20px;
+}
+
+#WelcomeMessageUserName {
+    font-weight: bold;
+}
+
+#UserFollows {
+    border:dashed 1px #C0C0C0;
+    width:240px;
+    padding: 6px;
+}
